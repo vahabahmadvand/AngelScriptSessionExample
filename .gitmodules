@@ -1,0 +1,3 @@
+[submodule "Plugins/ArchVizToolkit"]
+	path = Plugins/AngelScriptSessions
+	url = https://github.com/vahabahmadvand/AngelScriptSessions.git
